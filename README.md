@@ -1,2 +1,2 @@
-# students_mark
-students_mark_predictor_project_linear
+# students_mark_predictor_project_linear
+ it is a csv  file project with ml 
